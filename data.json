@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 310,
+  "totalResults": 95,
   "articles": [
     {
       "source": {
@@ -54,19 +54,7 @@
       "publishedAt": "2024 12 07T00:08:01Z",
       "content": "As holiday shopping continues, Apple is running a fun promotion at Apple Stores this weekend. \r\nAt select stores in San Francisco, Miami, Los Angeles, and New York City, live artists will be availabl… [+3012 chars]"
     },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.jp"
-      },
-      "author": "小野寺しんいち",
-      "title": "使い倒そう、iPhone 16 Pro。押さえておきたい5つのカメラ機能",
-      "description": "Image:Framesira/Shutterstock.comiPhone16Pro、カメラ性能エグすぎます。特に余計なことをしなくても、一瞬で美しい写真や動画が撮影できてしまいます。しかし、それではもったいない。Proのポテシャルをフルに使えば、もっと驚くような写真・動画が作れるんです。ここでは、iPhone16Pro/ProMaxのカメラを使い倒したい人に、5つのカメラ機能をご紹介します。こ",
-      "url": "https://www.gizmodo.jp/2024/12/iphone 16 pro camera function.html",
-      "urlToImage": "https://media.loom app.com/gizmodo/dist/images/2024/12/06/shutterstock_2530563759.jpg?w=1280&h=630&f=jpg",
-      "publishedAt": "2024 12 07T09:00:00Z",
-      "content": "iPhone 16 Pro\r\nPro\r\niPhone 16 Pro/Pro Max5\r\n4800iPhone 16 ProiPhone 16 Pro4800\r\nPhoto: \r\n.5\r\n48MP\r\niPhone 16 \r\nImage: \r\n: : \r\niPhone\r\n4K 120fps\r\niPhone 16 Pro4K 120fps\r\n1fpsframe per seconds4K\r\nVideo… [+150 chars]"
-    },
+
     {
       "source": {
         "id": null,
@@ -632,19 +620,6 @@
         "name": "3dnews.ru"
       },
       "author": null,
-      "title": "Фирменный модем Apple наделит Mac и iPad поддержкой 5G, но не самого быстрого",
-      "description": "Уже несколько лет Apple пытается за счёт усилий по разработке собственного модема отказаться от использования решений Qualcomm в своих смартфонах, но теперь Bloomberg утверждает, что его появление в iPhone SE весной следующего года положит начало трёхлетнего …",
-      "url": "https://3dnews.ru/1115103/firmennyj modem apple nadelit mac i ipad podderzhkoj 5g",
-      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/12/07/1115103/apple_01.jpg",
-      "publishedAt": "2024 12 07T09:43:00Z",
-      "content": "Apple Qualcomm , Bloomberg , iPhone SE , iPhone, Mac Vision Pro.\r\n: Apple\r\nBloomberg, Apple Qualcomm , iPhone. Sinope, , Apple, , .\r\n Apple iPhone SE, 2025 . iPhone 17 Apple   , . D23 2 iPhone 16 Pro… [+333 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "3dnews.ru"
-      },
-      "author": null,
       "title": "5G модем Apple будет в 2,5 раза медленнее Qualcomm — он появится в iPhone SE и iPhone 17",
       "description": "Уже несколько лет Apple пытается за счёт усилий по разработке собственного модема отказаться от использования решений Qualcomm в своих смартфонах, но теперь Bloomberg утверждает, что его появление в iPhone SE весной следующего года положит начало трёхлетнего …",
       "url": "https://3dnews.ru/1115106/5gmodem apple budet v 25 raza medlennee qualcomm on poyavitsya v iphone se i iphone 17",
@@ -720,32 +695,6 @@
     {
       "source": {
         "id": null,
-        "name": "Cool3c.com"
-      },
-      "author": "Mash Yang",
-      "title": "美國新墨西哥州將接受數位身分證明",
-      "description": "新墨西哥州允許居民將駕照和州身分證添加至 Apple Wallet 和 Google Wallet，供特定場所驗證身分使用。 在俄亥俄州於今年8月加入認同以存放在手機內數位證件作為個人身分識別的州之後，目前新墨西哥州也將加入支援接受數位證件。 不過，目前在新墨西哥州的居民依然需要透過NM Verifier App將個人證件資料加入手機，並且能將其增加至蘋果錢包或Google Wallet App出示使用，但僅限用於特定企業服務身分認證，或是搭乘班機時作為身分識別使用，在一般執法過程及需要驗明年齡時，依然需要使用證…",
-      "url": "https://www.cool3c.com/article/230310",
-      "urlToImage": "https://sw.cool3c.com/article/2024/6fe3a160 c762 458b 9b6f 58fa5ed94849.jpg?fit=max&w=1400&q=80",
-      "publishedAt": "2024 12 07T08:11:27Z",
-      "content": "Apple Wallet Google Wallet\r\n8\r\nNM Verifier AppGoogle Wallet App\r\niPhoneAndroid\r\niOSAndroidiOSGoogle Wallet\r\nGoogle"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Roomie.jp"
-      },
-      "author": "かいサポ（セール情報）",
-      "title": "憧れのウルトラファインバブルに手が届く。節水もできるミストシャワーヘッド #Amazonセール",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  Amazon（アマゾン）で毎日開催されているタイムセール。 本日2024年12月7日は、ウルトラファインバブルで細かな汚れも吸着し洗い流せるSANEI(サンエイ)のミストシャワーヘッド「ミトス PS3063 81XA CMP EC」やSALONIA（サロニア）の「ファインバブルクリア」など、機能性に優れたシ",
-      "url": "https://www.roomie.jp/2024/12/1369600/",
-      "urlToImage": "https://media.loom app.com/roomie/dist/images/2024/12/r1.jpg?w=1200",
-      "publishedAt": "2024 12 07T11:15:25Z",
-      "content": "Amazon\r\n2024127SANEI() PS3063 81XA CMP ECSALONIA\r\n202412717\r\n12AmazonAudible30\r\nKindle Unlimited20030\r\nSANEI15%\r\nSANEITOTOLIXILINAXKAKUDAITBCYUKOMYM\r\n25\r\n360SALONIA 25\r\n1m100m\r\n 43 4K35\r\nREGZA43 4K 4… [+177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Twistedsifter.com"
       },
       "author": "Diana Whelan",
@@ -755,32 +704,6 @@
       "urlToImage": "https://twistedsifter.com/wp content/uploads/2024/11/SandwichDramaRedo.png",
       "publishedAt": "2024 12 07T09:21:36Z",
       "content": "Hosting family can test even the strongest of relationships, especially when your guest doesnt lift a finger.\r\nThis couple clashed with a houseguest over a sandwich request during cleaning time, lead… [+3355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Taisy0.com"
-      },
-      "author": "taisy0",
-      "title": "Apple、｢Mac｣や｢Vision Pro｣にもセルラー通信機能を搭載することを検討か",
-      "description": "1つ前の記事でApple製5Gモデムチップの計画の詳細が明らかになったことをお伝えしましたが、そのことを報告していたBloombergのMark Gurman氏が新たな記事を公開しており、AppleじゃMacにもセルラー通信機能を搭載するこ",
-      "url": "https://taisy0.com/2024/12/07/206718.html",
-      "urlToImage": "https://taisy0.com/wp content/uploads/2024/10/th_Apple MacBook Pro M4 lineup_big.large_2x.jpg",
-      "publishedAt": "2024 12 07T01:18:46Z",
-      "content": "1Apple5GBloombergMark GurmanAppleMac\r\nAppleiPhoneiPadMac\r\n222026Mac\r\nAppleVision Pro\r\nvia 9To5Mac"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Taisy0.com"
-      },
-      "author": "taisy0",
-      "title": "Apple製5Gモデムチップの計画の詳細が明らかに ｰ まずは来春発売の新型｢iPhone SE｣から搭載へ",
-      "description": "Bloombergの著名記者であるMark Gurman氏が、問題に詳しい関係者の話として、Appleが自社開発した5Gモデムシステムは来年春にデビューする予定だと報告しています。 この自社製5Gモデムチップは、来年にモデルチェンジが行われ",
-      "url": "https://taisy0.com/2024/12/07/206716.html",
-      "urlToImage": "https://taisy0.com/wp content/uploads/2023/11/th_Apple 5G Modem Feature Triad.jpg",
-      "publishedAt": "2024 12 07T01:05:21Z",
-      "content": "BloombergMark GurmanApple5G\r\n5GiPhone SE2027Qualcomm\r\niPhone SEApple IntelligenceAppleSinopeD23iPhoneiPhone 17 Air ()\r\n2025iPad\r\nAppleiPhone SE1iPhone 16 Pro\r\nApplemmWave4Qualcomm6QualcommmmWave\r\nApp… [+100 chars]"
     },
     {
       "source": {
@@ -915,32 +838,6 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T11:00:46Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T04:54:17Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Slate Magazine"
       },
       "author": "Emily Peck, Felix Salmon, and Elizabeth Spiers",
@@ -963,19 +860,6 @@
       "urlToImage": "https://cdn.unwire.hk/wp content/uploads/2024/12/01 1 694x390.jpg",
       "publishedAt": "2024 12 07T05:00:52Z",
       "content": "Wired Tim Cook Apple CEO Tim Cook Apple Tim Cook Apple 2017 Apple \r\nTim Cook Apple Apple Watch Tim Cook Apple Apple \r\nApple Apple iPhone Apple Intelligence \r\nTim Cook Apple Apple Siri Tim Cook Apple … [+189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iphones.ru"
-      },
-      "author": "Илья Сидоров",
-      "title": "iPhone 17 Air будет на 2 мм тоньше, чем iPhone 16 Pro",
-      "description": "В 2025 году Apple планирует выпустить iPhone 17 Air. Это будет новая модель, которая выйдет вместе с iPhone 17, 17 Pro и 17 Pro Max, сообщает Bloomberg. Главной особенностью iPhone 17 Air станет рекордно низкая толщина. Он будет на 2 мм тоньше, чем iPhone 16 …",
-      "url": "https://www.iphones.ru/iNotes/iphone 17 air budet na 2 mm tonshe chem iphone 16 pro",
-      "urlToImage": "https://www.iphones.ru/wp content/plugins/wonderm00ns simple facebook open graph tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp content%2Fuploads%2F2024%2F12%2FiPhone 17 Slim Feature 1.jpg",
-      "publishedAt": "2024 12 07T07:56:38Z",
-      "content": "2025 Apple iPhone 17 Air. , iPhone 17, 17 Pro 17 Pro Max, Bloomberg.\r\n iPhone 17 Air . 2 , iPhone 16 Pro, 8,25 . , iPhone 17 Air 6,25 .\r\n . iPhone 6 6,9 .\r\niPhone 17 Air 5G  Apple. , Qualcomm. , , .\r… [+35 chars]"
     },
     {
       "source": {
@@ -1067,58 +951,6 @@
       "urlToImage": "https://ipadizate.com/hero/2024/12/icono ios 19 concepto.jpg?width=1200",
       "publishedAt": "2024 12 07T11:03:56Z",
       "content": "Repasamos todo lo que debes saber de iOS 19, el próximo sistema operativo del iPhone\r\nAunque iOS 18 es todavía un sistema operativo muy joven, la próxima gran actualización ya se está fraguando. iOS … [+4072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bohaishibei.com"
-      },
-      "author": "梁萧",
-      "title": "百货 50 条，全部是实用的玩意儿（1207 第 3108 期）",
-      "description": "豪园 泰式椰汁家庭装椰奶 1.25L*2瓶新低11.31元包邮（5.65元/瓶） 椰汁+软滑椰果，椰汁清甜，果肉香滑，浓郁椰香，回味无穷。目前天猫商城豪园旗舰店售价￥19.9，还可使用￥5优惠券，首单…",
-      "url": "https://www.bohaishibei.com/post/96150/",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T00:35:31Z",
-      "content": "1.25L*211.315.65/\r\n+19.95311.31\r\n500g 14.8\r\n8mm¥16.8214.82\r\n¥19.8 *2\r\n36 45PVC \r\n¥17.8 880g*2\r\n12¥8.9/0 \r\n59\r\n39.9\r\n13 3 17.75.9/\r\n129.929 12317.735.9/\r\n500g*21024.8\r\n5500g*21038.81424.846\r\n9.9\r\n38.9… [+6899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T10:23:57Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T10:58:50Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024 12 07T07:34:03Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -1274,19 +1106,6 @@
       "url": "https://www.smzdm.com/p/135560338/",
       "urlToImage": "https://qny.smzdm.com/202409/14/66e4d24d21f1a8591.jpg_d250.jpg",
       "publishedAt": "2024 12 07T02:10:04Z",
-      "content": "iPhone 16 Pro Max6.76.9120HzProMotion5\r\niPhone 16 Pro Max A18 Pro 3nm 6 CPU 2 4 A17 Pro 15% 20% 6 GPU A17 Pro 20%16 35 17% ML ProMotion USB 3 ProRes 2x \r\n48MP 48MP ProRAW HEIF 0 48MP12MP 5 4K120 4800… [+69 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Smzdm.com"
-      },
-      "author": null,
-      "title": "Apple 苹果 iPhone 16 Pro Max（A3297）256GB 白色钛金属 9499元（需用券）",
-      "description": "Apple 苹果 iPhone 16 Pro Max（A3297）256GB 白色钛金属 9499元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
-      "url": "https://www.smzdm.com/p/135573231/",
-      "urlToImage": "https://qny.smzdm.com/202409/10/66df511dbe9b51910.jpg_d250.jpg",
-      "publishedAt": "2024 12 07T03:23:37Z",
       "content": "iPhone 16 Pro Max6.76.9120HzProMotion5\r\niPhone 16 Pro Max A18 Pro 3nm 6 CPU 2 4 A17 Pro 15% 20% 6 GPU A17 Pro 20%16 35 17% ML ProMotion USB 3 ProRes 2x \r\n48MP 48MP ProRAW HEIF 0 48MP12MP 5 4K120 4800… [+69 chars]"
     },
     {
